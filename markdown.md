@@ -1,2 +1,0 @@
-Goodbye Practice MD
-
