@@ -18,3 +18,5 @@ My portfolio focuses on blending kinesiology concepts with technology. Some high
 
 ---
 *Built with Jekyll and hosted natively via GitHub Pages.*
+
+**Acknowledgment:** *The development, styling, and structural implementation of this portfolio website was supported by Antigravity, an advanced AI coding assistant.*
