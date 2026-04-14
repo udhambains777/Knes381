@@ -10,3 +10,5 @@ Feel free to get in touch using any of the methods below:
 
 * **Email:** [udham.bains@ucalgary.ca](mailto:udham.bains@ucalgary.ca)
 * **GitHub:** [udhambains777](https://github.com/udhambains777)
+
+<br><br><br><br><br><br><br><br><br><br>
