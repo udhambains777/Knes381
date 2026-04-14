@@ -7,7 +7,7 @@ author_profile: true
 
 I am a 4th year Kinesiology student at the University of Calgary with a clear sense of where I am headed. My goal is to become a pediatrician, and everything I have done throughout my undergraduate years has been shaped by that ambition.
 
-## Why Pediatrics
+**Why Pediatrics**
 
 Working with children has never felt like an obligation to me; it has always come naturally. There is something deeply rewarding about being in a space where you can genuinely make a difference in a child's development, confidence, and wellbeing. The more time I spend around kids in different settings, the more certain I become that pediatric medicine is where I belong.
 
@@ -15,11 +15,11 @@ That conviction shows up across nearly every role I have taken on. As a voluntee
 
 Across all of these experiences, the common thread is simple: I genuinely enjoy working with kids, and I am good at it.
 
-## Research and Academics
+**Research and Academics**
 
 Beyond my work with children, I have developed a strong interest in human movement and biomechanics. As a member of the Mechatronics Integration of Neural Dynamics (MIND) club, I contribute to research on neuroprosthetic devices and brain-computer interface technologies, applying my understanding of motor learning and human movement to help improve the precision of assistive devices. I also volunteered with ACSCON Ambulosono, where I gained hands-on experience in data collection, lab communication, and the care of wearable research equipment.
 
-## Outside of School
+**Outside of School**
 
 When I am not studying or volunteering, I like to keep things simple. I am someone who can easily lose an entire weekend to a good show; there is nothing quite like finding a new series and committing to it completely. I also love getting out with friends, whether that is grabbing food, exploring the city, or just spending time together. Reading is another escape for me, particularly when I find something that pulls me in and makes me think.
 
