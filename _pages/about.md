@@ -11,7 +11,7 @@ redirect_from:
 >
 > — Tom Peters
 
-Welcome to my academic portfolio site, created as part of **KNES 381: Technology in Kinesiology** at the **University of Calgary**. This course challenged students to engage with digital tools — from data analysis and visualization to motion capture and interactive programming — and apply them to real problems in human movement and sport science.
+Welcome to my academic portfolio site, created as part of **KNES 381: Technology in Kinesiology** at the **University of Calgary**. This course challenged students to engage with digital tools, from data analysis and visualization to motion capture and interactive programming, and apply them to real problems in human movement and sport science.
 
 This site is a living record of that work. Here is what you will find:
 
