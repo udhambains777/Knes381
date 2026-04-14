@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpeg"
   name             : "Udham Bains"
   pronouns         : # example: "she/her"  
   bio              : "Hey, I am a 4th year Kinesiology student. My future aspirations are to become a doctor one day, and more specifically work in pediatrics."
