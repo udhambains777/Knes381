@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Interactive Scratch Maze
 
-For the technical and logical component, I developed this interactive maze game using MIT's Scratch programming language. The game utilizes block-based coding to implement logical statements, loops, and conditions to control movement and game mechanics.
+Designed and developed a multi-level maze game in Scratch with reliable keyboard controls, collision detection, win/lose states, and restart behavior. The game uses programming fundamentals including variables, loops, and conditionals, and incorporates added systems such as timers, penalties, level progression, and anti-cheat features to make gameplay more robust. Through this project, I strengthened my understanding of logical problem-solving, interactive design, and building structured code in Scratch.
 
 You can play the maze game directly on this page! Click the **Green Flag** below to start, and use your keyboard to navigate through the maze.
 
