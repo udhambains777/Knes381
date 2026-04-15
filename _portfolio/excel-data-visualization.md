@@ -8,7 +8,9 @@ collection: portfolio
 
 This project features programmatic data visualization built in Excel. It analyzes various aspects of athlete performance and includes interactive elements such as slicers, allowing users to dynamically filter and explore the data.
 
-Since this website is static, the interactive Excel dashboard has been provided as a downloadable file. You can download the workbook below to explore the data, interact with the slicers, and view the underlying visualizations natively in Excel!
+Below is the embedded interactive Excel dashboard. You can interact with the slicers and view the underlying visualizations directly on this page, or use the download button included on the bottom right of the embed to view it natively in Excel!
 
 <br>
-<a href="/Knes381/files/realistic_athlete_performance_revised.xlsx" download style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Download the Excel Dashboard</a>
+<center>
+<iframe width="602" height="446" frameborder="0" scrolling="no" src="https://uofc-my.sharepoint.com/personal/udham_bains_ucalgary_ca/_layouts/15/Doc.aspx?sourcedoc={acce1490-a734-4912-8c45-e36259942d19}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+</center>
