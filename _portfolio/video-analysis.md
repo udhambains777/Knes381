@@ -10,11 +10,15 @@ For the video analysis component of my portfolio, I utilized **Dartfish**, a lea
 
 Unfortunately, my full Dartfish subscription has recently run out, meaning I am currently unable to upload my extensive analysis and stop-frames of other sports videos. However, this video taken on Dartfish Express beautifully demonstrates what I've learned and my ability to conduct comprehensive biomechanical tracking even with a slightly condensed mobile version.
 
-Below is a screenshot capturing a moment of my analysis workspace, highlighting the specific techniques and measurements applied during the breakdown:
+You can watch the full analyzed video clip below, complete with real-time tracking and visual tools applied, and look at the still shots (screenshots) capturing specific techniques and measurements applied during the breakdown.
 
-<img src="/Knes381/images/dartfish_analysis.png" alt="Dartfish Analysis Screenshot" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 25px; border: 1px solid #ccc;">
+<video width="100%" controls style="border-radius: 8px; margin-bottom: 25px; border: 1px solid #ccc;">
+  <source src="/Knes381/files/dartfish_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-If you would like to view the full analyzed video clip online, complete with the real-time tracking and visual tools applied, you can click the button below to watch it directly!
+### Still Shots (Screenshots)
 
-<br>
-<a href="https://dartfi.sh/qdzMkyUXAW9" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Watch the Dartfish Video Setup</a>
+<img src="/Knes381/images/dartfish_analysis.png" alt="Dartfish Analysis Screenshot 1" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 25px; border: 1px solid #ccc;">
+
+<img src="/Knes381/images/dartfish_analysis_2.png" alt="Dartfish Analysis Screenshot 2" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 25px; border: 1px solid #ccc;">
