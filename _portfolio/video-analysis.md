@@ -10,14 +10,14 @@ For the video analysis component of my portfolio, I utilized **Dartfish**, a lea
 
 Unfortunately, my full Dartfish subscription has recently run out, meaning I am currently unable to upload my extensive analysis and stop-frames of other sports videos. However, this video taken on Dartfish Express beautifully demonstrates what I've learned and my ability to conduct comprehensive biomechanical tracking even with a slightly condensed mobile version.
 
-You can watch the full analyzed video clip below, complete with real-time tracking and visual tools applied, and look at the still shots (screenshots) capturing specific techniques and measurements applied during the breakdown.
+You can watch the full video clip below, and look at the still shots capturing specific techniques and measurements applied during the breakdown.
 
 <video width="100%" controls style="border-radius: 8px; margin-bottom: 25px; border: 1px solid #ccc;">
   <source src="/Knes381/files/dartfish_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### Still Shots (Screenshots)
+### Still Shots
 
 <img src="/Knes381/images/dartfish_analysis.png" alt="Dartfish Analysis Screenshot 1" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 25px; border: 1px solid #ccc;">
 
